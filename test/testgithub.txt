@@ -1,0 +1,9 @@
+1.Click on "My Account" Drop down menu.  
+2.Click on 'Register' option
+3.Enter new Account Details into the Mandatory 
+ field (First Name, Last Name E-Mail, Telephone,
+Password Confirm and Privacy Policy fields)
+4. Click on 'Continue' butoon( ER-1)
+5.Click on "Continue" button that is displayed in the 
+'Account Success' Page (ER-2)
+
